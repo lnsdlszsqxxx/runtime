@@ -12,6 +12,9 @@ import java.util.List;
 public class DepartmentDao {
 
     private Logger logger = LoggerFactory.getLogger(this.getClass());
+    private Logger logger2 = LoggerFactory.getLogger(this.getClass());
+    private Logger logger3 = LoggerFactory.getLogger(this.getClass());
+
 
     //STEP 1: Database information
     static final String DB_URL = "jdbc:postgresql://localhost:5431/dealer";

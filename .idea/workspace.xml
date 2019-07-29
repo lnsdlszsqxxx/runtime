@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f2444f0-258a-458f-83e2-0427e2f65efb" name="Default Changelist" comment="" />
+    <list default="true" id="1f2444f0-258a-458f-83e2-0427e2f65efb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" selection-end-column="69" />
+            <state relative-caret-position="208">
+              <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,6 +137,9 @@
       <find>department</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -143,8 +150,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/TestAll.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/DepartmentDaoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java" />
       </list>
     </option>
   </component>
@@ -187,6 +194,7 @@
     <option name="width" value="1400" />
     <option name="height" value="837" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -315,6 +323,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -446,7 +455,7 @@
       <workItem from="1564368036370" duration="11000" />
       <workItem from="1564368063422" duration="8000" />
       <workItem from="1564411612186" duration="572000" />
-      <workItem from="1564415592415" duration="6564000" />
+      <workItem from="1564415592415" duration="6771000" />
     </task>
     <servers />
   </component>
@@ -483,13 +492,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17586000" />
+    <option name="totallyTimeSpent" value="17793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="23" width="1400" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2827688" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2827688" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -498,7 +507,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -601,8 +610,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" selection-end-column="69" />
+        <state relative-caret-position="208">
+          <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
