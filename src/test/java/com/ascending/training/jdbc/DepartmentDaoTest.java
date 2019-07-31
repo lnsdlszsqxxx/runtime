@@ -2,13 +2,16 @@ package com.ascending.training.jdbc;
 
 import com.ascending.training.model.Department;
 import org.junit.*;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.util.List;
 
 public class DepartmentDaoTest {
 
-    private DepartmentDao departmentDao;
 
+    private DepartmentDao departmentDao;
+    private Logger logger = LoggerFactory.getLogger(this.getClass());
 
 
     @Before
@@ -18,6 +21,8 @@ public class DepartmentDaoTest {
 
     @After
     public void cleanup(){
+
+        System.out.println("After cleanup.");
 
     }
 

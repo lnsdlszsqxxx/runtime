@@ -7,11 +7,14 @@ import org.slf4j.LoggerFactory;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 
 public class DepartmentDao {
 
     private Logger logger = LoggerFactory.getLogger(this.getClass());
+    private int x;
+
 
     //STEP 1: Database information
     static final String DB_URL = "jdbc:postgresql://localhost:5431/dealer";
@@ -52,6 +55,7 @@ public class DepartmentDao {
             }
         }
         catch(Exception e){
+            logger.error(e.getMessage());
             e.printStackTrace();
         }
         finally {
@@ -62,17 +66,25 @@ public class DepartmentDao {
                 if(conn != null) conn.close();
             }
             catch(SQLException se) {
+
                 se.printStackTrace();
             }
         }
 
 
 
+        logger.trace("Trace: "+departments.size());
+        logger.debug("debug: "+departments.size());
+        logger.info("info: "+departments.size());
+        logger.warn("warn: "+departments.size());
+        logger.error("error: "+departments.size());
 
-
+        logger.info("this method departmentDAO is done");
 
         return departments;
     }
+
+
 
     public static void main(String[] args){
         DepartmentDao departmentDao = new DepartmentDao();
