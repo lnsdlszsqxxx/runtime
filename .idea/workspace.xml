@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f2444f0-258a-458f-83e2-0427e2f65efb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass1.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -98,7 +97,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass22.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -110,8 +109,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass1.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
@@ -480,7 +479,7 @@
       <workItem from="1564411612186" duration="572000" />
       <workItem from="1564415592415" duration="6564000" />
       <workItem from="1564531773591" duration="1584000" />
-      <workItem from="1564533380511" duration="4765000" />
+      <workItem from="1564533380511" duration="5188000" />
     </task>
     <servers />
   </component>
@@ -517,7 +516,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34481000" />
+    <option name="totallyTimeSpent" value="34904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -530,7 +529,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="33" width="1400" height="837" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49932885" visible="true" weight="0.29086894" />
       <window_info id="Structure" order="1" sideWeight="0.50067115" side_tool="true" weight="0.28645065" />
@@ -697,6 +695,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>

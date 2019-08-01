@@ -1,4 +1,4 @@
 package com.ascending.training.jdbc;
 
-public class MyClass1 {
+public class MyClass3 {
 }
