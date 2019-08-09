@@ -15,6 +15,7 @@ public class DepartmentDao {
     private Logger logger = LoggerFactory.getLogger(this.getClass());
     private int x;
 
+    private String Liang;
 
     //STEP 1: Database information
     static final String DB_URL = "jdbc:postgresql://localhost:5431/mypostgresDB"; //mypostgresDB is POSTGRES_DB value
