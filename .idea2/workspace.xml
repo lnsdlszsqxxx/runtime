@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f2444f0-258a-458f-83e2-0427e2f65efb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V1.1__insert_data_into_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1.1__insert_data_into_tables.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V1__create_all_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1__create_all_tables.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/runtime.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ascending/training/jdbc/DepartmentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ascending/training/jdbc/DepartmentDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ascending/training/model/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ascending/training/model/Department.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db/migration/V1.1__insert_data_into_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/migration/V1.1__insert_data_into_tables.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db/migration/V1__create_all_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/migration/V1__create_all_tables.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.ascending.training.jdbc.DemoTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.ascending.training.jdbc.TestAll.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.ascending.training.jdbc.DemoTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.ascending.training.jdbc.TestAll.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DemoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DepartmentDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DepartmentDaoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DepartmentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DepartmentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/TestAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/TestAll.class" afterDir="false" />
-    </list>
+    <list default="true" id="1f2444f0-258a-458f-83e2-0427e2f65efb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+            <state relative-caret-position="450">
+              <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -628,7 +600,7 @@
       <workItem from="1565124941193" duration="1704000" />
       <workItem from="1565185423848" duration="1035000" />
       <workItem from="1565189255804" duration="1493000" />
-      <workItem from="1565222789832" duration="8921000" />
+      <workItem from="1565222789832" duration="9530000" />
     </task>
     <servers />
   </component>
@@ -665,7 +637,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81931000" />
+    <option name="totallyTimeSpent" value="82540000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -678,6 +650,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49932885" visible="true" weight="0.26967096" />
       <window_info id="Structure" order="1" sideWeight="0.50067115" side_tool="true" weight="0.28645065" />
@@ -688,7 +661,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50067115" side_tool="true" weight="0.28645065" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4992636" weight="0.32885906" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48783976" visible="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48783976" weight="0.32866243" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49713877" weight="0.3987261" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1066,8 +1039,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        <state relative-caret-position="450">
+          <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
         </state>
       </provider>
     </entry>
