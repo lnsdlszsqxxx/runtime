@@ -11,14 +11,18 @@ CREATE SEQUENCE employee_id_seq START WITH 1;
 CREATE SEQUENCE account_id_seq START WITH 1;
 
 CREATE TABLE department (
-   id                INTEGER NOT NULL default nextval('department_id_seq'),
+--    id                INTEGER NOT NULL default nextval('department_id_seq'),
+   id SERIAL NOT NULL,
    name              VARCHAR(30) not null unique,
    description       VARCHAR(150),
    location          VARCHAR(100)
 );
 ALTER TABLE department ADD CONSTRAINT department_pk PRIMARY KEY ( id );
+
+
 CREATE TABLE employee (
-   id              INTEGER NOT NULL default nextval('employee_id_seq'),
+--    id              INTEGER NOT NULL default nextval('employee_id_seq'),
+   id SERIAL NOT NULL,
    name            VARCHAR(30) not null unique,
    first_name      VARCHAR(30),
    last_name       VARCHAR(30),
@@ -27,8 +31,11 @@ CREATE TABLE employee (
    department_id   INTEGER NOT NULL
 );
 ALTER TABLE employee ADD CONSTRAINT employee_pk PRIMARY KEY ( id );
+
+
 CREATE TABLE account (
-   id             INTEGER NOT NULL default nextval('account_id_seq'),
+--    id             INTEGER NOT NULL default nextval('account_id_seq'),
+   id SERIAL NOT NULL,
    account_type   VARCHAR(30),
    balance        NUMERIC(10, 2),
    employee_id    INTEGER NOT NULL

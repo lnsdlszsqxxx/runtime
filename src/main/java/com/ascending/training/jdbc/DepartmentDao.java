@@ -17,9 +17,9 @@ public class DepartmentDao {
 
 
     //STEP 1: Database information
-    static final String DB_URL = "jdbc:postgresql://localhost:5431/dealer";
+    static final String DB_URL = "jdbc:postgresql://localhost:5431/mypostgresDB"; //mypostgresDB is POSTGRES_DB value
     static final String USER = "admin";
-    static final String PASS = "password";
+    static final String PASS = "123";
     public List<Department> getDepartments() {
         List<Department> departments = new ArrayList();
         Connection conn = null;
@@ -40,14 +40,15 @@ public class DepartmentDao {
                 //Retrieve by column name
                 int id  = rs.getInt("id");
                 String name = rs.getString("name");
-                String description = rs.getString("description");
                 String location = rs.getString("location");
+                String description = rs.getString("description");
                 //Fill the object
                 Department department = new Department();
                 department.setId(id);
                 department.setName(name);
-                department.setDescription(description);
                 department.setLocation(location);
+                department.setDescription(description);
+
                 departments.add(department);
 
                 logger.debug(String.format("The department %s is",department.toString()));

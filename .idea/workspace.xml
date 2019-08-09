@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f2444f0-258a-458f-83e2-0427e2f65efb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V1.1__insert_data_into_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1.1__insert_data_into_tables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V1__create_all_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1__create_all_tables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/runtime.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ascending/training/jdbc/DepartmentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ascending/training/jdbc/DepartmentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ascending/training/model/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ascending/training/model/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db/migration/V1.1__insert_data_into_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/migration/V1.1__insert_data_into_tables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db/migration/V1__create_all_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/migration/V1__create_all_tables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.ascending.training.jdbc.DemoTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.ascending.training.jdbc.TestAll.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.ascending.training.jdbc.DemoTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.ascending.training.jdbc.TestAll.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DemoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DepartmentDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DepartmentDaoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DepartmentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/DepartmentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/TestAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ascending/training/jdbc/TestAll.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,49 +60,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="23" selection-start-line="23" selection-end-line="28" selection-end-column="17" />
+            <state relative-caret-position="270">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/DepartmentDaoTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/repository/HibernateMappingTestDepartment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="381">
+              <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#0#15#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/DepartmentTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/repository/HibernateMappingTestAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="251">
+              <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#0#17#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/TestAll.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
             </state>
           </provider>
         </entry>
@@ -84,48 +109,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/DemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-251">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#271#272#0" expanded="true" />
                 <element signature="e#330#331#0" expanded="true" />
                 <element signature="e#1430#1431#0" expanded="true" />
-                <element signature="e#1452#1453#0" expanded="true" />
+                <element signature="e#1466#1467#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass22.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/model/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/model/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="88" selection-start-line="88" selection-end-line="99" selection-end-column="5" />
+            <state relative-caret-position="692">
+              <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2725#2726#0" expanded="true" />
+                <element signature="e#2824#2825#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1.1__insert_data_into_tables.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1__create_all_tables.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -135,6 +168,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -145,7 +179,14 @@
       <find>jdbc</find>
       <find>department</find>
       <find>DriverManager</find>
+      <find>slf4j</find>
+      <find>pas</find>
+      <find>get</find>
+      <find>open</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -153,21 +194,37 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/db/migration/V1.1__insert_data_into_tables.sql" />
         <option value="$PROJECT_DIR$/src/main/resources/db/V1__create_all_tables.sql" />
-        <option value="$PROJECT_DIR$/src/main/resources/db/migration/V1__create_all_tables.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/model/department.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/TestAll.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/DemoTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/AppTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/DepartmentTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/DepartmentDaoTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass22.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/CompareToTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/CompareToTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/TestInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/InnerClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/DemoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java" />
+        <option value="$PROJECT_DIR$/target/classes/db/migration/V1__create_all_tables.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/db/migration/V1__create_all_tables.sql" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/repository/HibernateMappingTestEmployee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/repository/DepartmentDatImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/repository/DepartmentDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/repository/DepartmentDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/db/migration/V1.1__insert_data_into_tables.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/model/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/util/HibernateUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/repository/HibernateMappingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ascending/training/model/Account.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/repository/HibernateMappingTestDepartment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ascending/training/repository/HibernateMappingTestAccount.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -204,18 +261,20 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="9" />
-    <option name="y" value="33" />
-    <option name="width" value="1400" />
-    <option name="height" value="837" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="140" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -239,14 +298,20 @@
               <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
               <item name="runtime" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="runtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
               <item name="runtime" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -254,7 +319,7 @@
               <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
               <item name="runtime" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
               <item name="jdbc" type="462c0819:PsiDirectoryNode" />
@@ -263,38 +328,10 @@
               <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
               <item name="runtime" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
@@ -327,30 +364,69 @@
               <item name="runtime" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
               <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ascending" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
               <item name="runtime" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
               <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-              <item name="migration" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ascending" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="runtime" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ascending" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="runtime" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ascending" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="runtime" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ascending" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ascending.training.jdbc" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/target/classes/db/migration" />
       <recent name="$PROJECT_DIR$/src/main/resources/db/migration" />
@@ -368,22 +444,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyClass22">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ascending.training.App" />
-      <module name="runtime" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ascending.training.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyClass22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ascending.training.jdbc.MyClass22" />
+  <component name="RunManager" selected="JUnit.HibernateMappingTestAccount">
+    <configuration name="DepartmentDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ascending.training.jdbc.DepartmentDao" />
       <module name="runtime" />
       <extension name="coverage">
         <pattern>
@@ -395,66 +458,132 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoTest.thisisnotatest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HibernateMappingTestAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="runtime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ascending.training.jdbc.*" />
+          <option name="PATTERN" value="com.ascending.training.repository.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ascending.training.jdbc" />
-      <option name="MAIN_CLASS_NAME" value="com.ascending.training.jdbc.DemoTest" />
-      <option name="METHOD_NAME" value="thisisnotatest" />
+      <option name="PACKAGE_NAME" value="com.ascending.training.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ascending.training.repository.HibernateMappingTestAccount" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Ddatabase.driver=org.postgresql.Driver -Ddatabase.dialect=org.hibernate.dialect.PostgreSQL9Dialect -Ddatabase.url=jdbc:postgresql://localhost:5431/mypostgresDB -Ddatabase.user=admin -Ddatabase.password=123" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateMappingTestDepartment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="runtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ascending.training.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ascending.training.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ascending.training.repository.HibernateMappingTestDepartment" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Ddatabase.driver=org.postgresql.Driver -Ddatabase.dialect=org.hibernate.dialect.PostgreSQL9Dialect -Ddatabase.url=jdbc:postgresql://localhost:5431/mypostgresDB -Ddatabase.user=admin -Ddatabase.password=123" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateMappingTestDepartment.mappingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="runtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ascending.training.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ascending.training.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ascending.training.repository.HibernateMappingTestDepartment" />
+      <option name="METHOD_NAME" value="mappingTest" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-Ddatabase.driver=org.postgresql.Driver -Ddatabase.dialect=org.hibernate.dialect.PostgreSQL9Dialect -Ddatabase.url=jdbc:postgresql://localhost:5431/mypostgresDB -Ddatabase.user=admin -Ddatabase.password=123" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DepartmentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HibernateMappingTestEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="runtime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ascending.training.jdbc.*" />
+          <option name="PATTERN" value="com.ascending.training.repository.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ascending.training.jdbc" />
-      <option name="MAIN_CLASS_NAME" value="com.ascending.training.jdbc.DepartmentTest" />
+      <option name="PACKAGE_NAME" value="com.ascending.training.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ascending.training.repository.HibernateMappingTestEmployee" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Ddatabase.driver=org.postgresql.Driver -Ddatabase.dialect=org.hibernate.dialect.PostgreSQL9Dialect -Ddatabase.url=jdbc:postgresql://localhost:5431/mypostgresDB -Ddatabase.user=admin -Ddatabase.password=123" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass22" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HibernateMappingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="runtime" />
+      <option name="PACKAGE_NAME" value="com.ascending.training.repository" />
+      <option name="MAIN_CLASS_NAME" value="HibernateMappingTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="   -Ddatabase.driver=org.postgresql.Driver    -Ddatabase.dialect=org.hibernate.dialect.PostgreSQL9Dialect    -Ddatabase.url=jdbc:postgresql://localhost:5431/mypostgresDB    -Ddatabase.user=admin    -Ddatabase.password=123" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateMappingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="runtime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ascending.training.jdbc.*" />
+          <option name="PATTERN" value="com.ascending.training.repository.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ascending.training.jdbc" />
-      <option name="MAIN_CLASS_NAME" value="com.ascending.training.jdbc.MyClass22" />
+      <option name="PACKAGE_NAME" value="com.ascending.training.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ascending.training.repository.HibernateMappingTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Ddatabase.driver=org.postgresql.Driver -Ddatabase.dialect=org.hibernate.dialect.PostgreSQL9Dialect -Ddatabase.url=jdbc:postgresql://localhost:5431/mypostgresDB  -Ddatabase.user=admin -Ddatabase.password=123" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Ddatabase.driver=org.postgresql.Driver -Ddatabase.dialect=org.hibernate.dialect.PostgreSQL9Dialect -Ddatabase.url=jdbc:postgresql://localhost:5431/mypostgresDB -Ddatabase.user=admin -Ddatabase.password=123" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.DemoTest.thisisnotatest" />
-      <item itemvalue="JUnit.MyClass22" />
-      <item itemvalue="JUnit.DepartmentTest" />
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.MyClass22" />
+      <item itemvalue="Application.DepartmentDao" />
+      <item itemvalue="JUnit.HibernateMappingTestDepartment" />
+      <item itemvalue="JUnit.HibernateMappingTestEmployee" />
+      <item itemvalue="JUnit.HibernateMappingTestDepartment.mappingTest" />
+      <item itemvalue="JUnit.HibernateMappingTestAccount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyClass22" />
-        <item itemvalue="Application.MyClass22" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.DepartmentTest" />
-        <item itemvalue="JUnit.DemoTest.thisisnotatest" />
+        <item itemvalue="JUnit.HibernateMappingTestAccount" />
+        <item itemvalue="JUnit.HibernateMappingTestDepartment" />
+        <item itemvalue="JUnit.HibernateMappingTestDepartment.mappingTest" />
+        <item itemvalue="JUnit.HibernateMappingTestEmployee" />
+        <item itemvalue="Application.DepartmentDao" />
       </list>
     </recent_temporary>
   </component>
@@ -479,44 +608,64 @@
       <workItem from="1564411612186" duration="572000" />
       <workItem from="1564415592415" duration="6564000" />
       <workItem from="1564531773591" duration="1584000" />
-      <workItem from="1564533380511" duration="5188000" />
+      <workItem from="1564533380511" duration="8080000" />
+      <workItem from="1564777302635" duration="4112000" />
+      <workItem from="1564786022323" duration="21000" />
+      <workItem from="1564786404839" duration="1145000" />
+      <workItem from="1564787832066" duration="6000" />
+      <workItem from="1564788377745" duration="8000" />
+      <workItem from="1564789790558" duration="28000" />
+      <workItem from="1564792257186" duration="4000" />
+      <workItem from="1564868327770" duration="30000" />
+      <workItem from="1564869532265" duration="617000" />
+      <workItem from="1564876848335" duration="15000" />
+      <workItem from="1564876912043" duration="59000" />
+      <workItem from="1564877067089" duration="148000" />
+      <workItem from="1564877464007" duration="9000" />
+      <workItem from="1565010702300" duration="149000" />
+      <workItem from="1565020804025" duration="8315000" />
+      <workItem from="1565045900561" duration="16316000" />
+      <workItem from="1565124941193" duration="1704000" />
+      <workItem from="1565185423848" duration="1035000" />
+      <workItem from="1565189255804" duration="1493000" />
+      <workItem from="1565222789832" duration="8921000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyClass - 2019.07.31 at 16h 02m 52s.xml">
-      <configuration name="MyClass" configurationId="JUnit" />
+    <history-entry file="HibernateMappingTestAccount - 2019.08.07 at 22h 45m 00s.xml">
+      <configuration name="HibernateMappingTestAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyClass - 2019.07.31 at 16h 03m 33s.xml">
-      <configuration name="MyClass" configurationId="JUnit" />
+    <history-entry file="HibernateMappingTestAccount - 2019.08.07 at 22h 45m 39s.xml">
+      <configuration name="HibernateMappingTestAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DepartmentTest - 2019.07.31 at 16h 09m 58s.xml">
-      <configuration name="DepartmentTest" configurationId="JUnit" />
+    <history-entry file="HibernateMappingTestAccount - 2019.08.07 at 22h 46m 10s.xml">
+      <configuration name="HibernateMappingTestAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DepartmentTest - 2019.07.31 at 16h 10m 40s.xml">
-      <configuration name="DepartmentTest" configurationId="JUnit" />
+    <history-entry file="HibernateMappingTestDepartment - 2019.08.07 at 22h 46m 48s.xml">
+      <configuration name="HibernateMappingTestDepartment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DepartmentTest - 2019.07.31 at 16h 11m 37s.xml">
-      <configuration name="DepartmentTest" configurationId="JUnit" />
+    <history-entry file="HibernateMappingTestDepartment - 2019.08.07 at 22h 48m 59s.xml">
+      <configuration name="HibernateMappingTestDepartment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DepartmentTest - 2019.07.31 at 16h 12m 34s.xml">
-      <configuration name="DepartmentTest" configurationId="JUnit" />
+    <history-entry file="HibernateMappingTestDepartment - 2019.08.07 at 22h 49m 34s.xml">
+      <configuration name="HibernateMappingTestDepartment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DepartmentTest - 2019.07.31 at 16h 12m 38s.xml">
-      <configuration name="DepartmentTest" configurationId="JUnit" />
+    <history-entry file="HibernateMappingTestDepartment - 2019.08.07 at 22h 49m 57s.xml">
+      <configuration name="HibernateMappingTestDepartment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyClass - 2019.07.31 at 16h 19m 08s.xml">
-      <configuration name="MyClass" configurationId="JUnit" />
+    <history-entry file="HibernateMappingTestDepartment - 2019.08.07 at 22h 50m 38s.xml">
+      <configuration name="HibernateMappingTestDepartment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyClass - 2019.07.31 at 16h 34m 54s.xml">
-      <configuration name="MyClass" configurationId="JUnit" />
+    <history-entry file="HibernateMappingTestDepartment - 2019.08.07 at 22h 50m 51s.xml">
+      <configuration name="HibernateMappingTestDepartment" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyClass - 2019.07.31 at 16h 45m 25s.xml">
-      <configuration name="MyClass" configurationId="JUnit" />
+    <history-entry file="HibernateMappingTestAccount - 2019.08.07 at 22h 56m 08s.xml">
+      <configuration name="HibernateMappingTestAccount" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34904000" />
+    <option name="totallyTimeSpent" value="81931000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -528,9 +677,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="33" width="1400" height="837" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49932885" visible="true" weight="0.29086894" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49932885" visible="true" weight="0.26967096" />
       <window_info id="Structure" order="1" sideWeight="0.50067115" side_tool="true" weight="0.28645065" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -538,18 +687,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50067115" side_tool="true" weight="0.28645065" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49558175" visible="true" weight="0.32885906" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4992636" weight="0.32885906" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48783976" visible="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49713877" weight="0.3987261" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32866243" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32885906" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32866243" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4992636" weight="0.32885906" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50441825" side_tool="true" visible="true" weight="0.32885906" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.48969072" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4992636" weight="0.32866243" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5028612" side_tool="true" weight="0.3987261" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.47639486" weight="0.32866243" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -564,6 +713,28 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="HibernateUtil.getSessionFactory()" language="JAVA" />
+        <watch expression="HibernateUtil.getSessionFactory()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>HibernateUtil.getSessionFactory()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>HibernateUtil.getSessionFactory().openSession()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
       <provider selected="true" editor-type-id="text-editor">
@@ -573,27 +744,80 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1.1__insert_data_into_tables" />
-    <entry file="file://$PROJECT_DIR$/runtime.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department.java">
+    <entry file="file://$PROJECT_DIR$/target/classes/db/migration/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/TestAll.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="105">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1__create_all_tables.sql">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass22.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass3.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="175">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1.1__insert_data_into_tables.sql">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/InnerClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/CompareToTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/TestInterface.java" />
+    <entry file="file://$PROJECT_DIR$/target/classes/com/ascending/training/jdbc/DepartmentDao.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="180">
+          <caret line="22" column="81" selection-start-line="22" selection-start-column="81" selection-end-line="22" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#3329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department2.java" />
+    <entry file="file://$PROJECT_DIR$/target/classes/db/migration/k" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/repository/DepartmentMappingTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/repository/DepartmentDaoTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar!/org/slf4j/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-end-line="131" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar!/org/slf4j/LoggerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="288" column="25" selection-start-line="288" selection-start-column="25" selection-end-line="288" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
+          <folding>
+            <element signature="e#5951#6086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
@@ -604,27 +828,183 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/db/migration/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/target/classes/db/migration/V1__create_all_tables.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="130">
+          <caret line="36" selection-start-line="36" selection-end-line="37" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/TestAll.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="28">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/ascending/training/util/HibernateUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#2452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final.jar!/org/hibernate/internal/SessionFactoryImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="423" selection-start-line="423" selection-end-line="423" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final.jar!/org/hibernate/SessionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final.jar!/org/hibernate/query/Query.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2108">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/repository/EmployeeDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="23" selection-start-line="23" selection-end-line="28" selection-end-column="17" />
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/repository/DepartmentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/util/HibernateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/repository/HibernateMappingTestEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/repository/DepartmentDaoImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/repository/DepartmentDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#67#1" expanded="true" />
+            <element signature="e#0#15#1" expanded="true" />
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="126" column="22" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
+          <folding>
+            <element signature="e#4911#4912#0" expanded="true" />
+            <element signature="e#4957#4958#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1__create_all_tables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1.1__insert_data_into_tables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/model/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2725#2726#0" expanded="true" />
+            <element signature="e#2824#2825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/model/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/DemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#1430#1431#0" expanded="true" />
+            <element signature="e#1466#1467#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -638,41 +1018,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/DemoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#1430#1431#0" expanded="true" />
-            <element signature="e#1452#1453#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/jdbc/DepartmentDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="88" selection-start-line="88" selection-end-line="99" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/DepartmentDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="44" />
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#370#371#0" expanded="true" />
@@ -681,29 +1030,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ascending/training/model/Department.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="360">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass22.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/repository/HibernateMappingTestDepartment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="381">
+          <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#0#15#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/jdbc/MyClass3.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ascending/training/repository/HibernateMappingTestAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="251">
+          <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#0#17#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>runtime</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
