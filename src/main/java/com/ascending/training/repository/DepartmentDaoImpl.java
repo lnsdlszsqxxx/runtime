@@ -15,6 +15,8 @@ public class DepartmentDaoImpl implements DepartmentDao{
 
     private Logger logger = LoggerFactory.getLogger(this.getClass());
 
+    public int branch2=2;
+
     @Override
     public boolean save(Department department){
         Transaction transaction = null;
